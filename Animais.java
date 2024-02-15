@@ -1,5 +1,4 @@
 // Aluna: Ana Carolina Silva Borges
-//teste1
 
 // Classe abstrata Animal
 abstract class Animal {
