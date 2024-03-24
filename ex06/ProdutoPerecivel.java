@@ -3,7 +3,7 @@ package ex06;
 import java.time.LocalDate;
 
 public class ProdutoPerecivel extends Produto {
-    private LocalDate dataValidade;
+    public LocalDate dataValidade;
 
     public ProdutoPerecivel(String nome, int codigo, double preco, int quantidadeEmEstoque, LocalDate dataValidade) {
         super(nome, codigo, preco, quantidadeEmEstoque);
