@@ -1,4 +1,4 @@
-package Funcionarios;
+package ex04.Funcionarios;
 
 // Subclasse Assistente
 class Assistente extends Funcionario {

@@ -1,3 +1,4 @@
+package ex03;
 // Aluna: Ana Carolina Silva Borges
 
 // Classe abstrata Animal

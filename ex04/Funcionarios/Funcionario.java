@@ -1,4 +1,4 @@
-package Funcionarios;
+package ex04.Funcionarios;
 
 // Classe abstrata Funcionario
 abstract class Funcionario {

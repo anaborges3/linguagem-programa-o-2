@@ -1,3 +1,4 @@
+package ex02;
 // Aluna: Ana Carolina Silva Borges
 
 // Classe abstrata Notificador

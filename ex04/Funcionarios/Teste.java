@@ -1,4 +1,4 @@
-package Funcionarios;
+package ex04.Funcionarios;
 
 import java.util.ArrayList;
 import java.util.List;

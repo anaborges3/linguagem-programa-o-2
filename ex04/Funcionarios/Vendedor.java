@@ -1,4 +1,4 @@
-package Funcionarios;
+package ex04.Funcionarios;
 
 // Subclasse Vendedor
 class Vendedor extends Funcionario {
