@@ -1,4 +1,4 @@
-package ex08.ex04interface;
+package ex04interface;
 
 class Assistente2 implements Funcionario2 {
     private String nome;

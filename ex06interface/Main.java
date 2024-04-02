@@ -1,4 +1,4 @@
-package ex08.ex06interface;
+package ex06interface;
 
 import java.time.LocalDate;
 

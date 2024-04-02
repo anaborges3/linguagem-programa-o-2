@@ -1,3 +1,5 @@
+package ex01interface;
+
 class Retangulo implements Forma {
     private double comprimento;
     private double largura;

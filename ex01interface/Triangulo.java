@@ -1,3 +1,5 @@
+package ex01interface;
+
 class Triangulo implements Forma {
     private double base;
     private double altura;

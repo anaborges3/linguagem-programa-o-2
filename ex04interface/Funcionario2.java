@@ -1,4 +1,4 @@
-package ex08.ex04interface;
+package ex04interface;
 
 interface Funcionario2 {
     double calculaSalario();

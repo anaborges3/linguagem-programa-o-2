@@ -1,4 +1,4 @@
-package ex08.ex02interface;
+package ex02interface;
 
 interface Notificador {
     void enviarMensagem(String mensagem);

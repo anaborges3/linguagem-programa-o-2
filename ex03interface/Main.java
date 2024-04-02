@@ -1,4 +1,4 @@
-package ex08.ex03interface;
+package ex03interface;
 
 interface Animal {
     void emitirSom();
