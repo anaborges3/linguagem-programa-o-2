@@ -1,4 +1,4 @@
-package ex08.ex07interface;
+package ex07interface;
 
 interface Veiculo {
     void abastecer(double quantidade);
