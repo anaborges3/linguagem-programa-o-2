@@ -1,5 +1,7 @@
 package ex16;
 
+import java.io.IOException;
+
 public class Main {
     public static void main(String[] args) {
         SalaDeAula salaDeAula = new SalaDeAula();
